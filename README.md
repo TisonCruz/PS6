@@ -20,3 +20,5 @@ In both the plots page, there is a table that show the number of students admitt
 
 
 ### Link to Shiny App:
+
+[Shiny Link](https://cruztison.shinyapps.io/ps6-assignment/)
