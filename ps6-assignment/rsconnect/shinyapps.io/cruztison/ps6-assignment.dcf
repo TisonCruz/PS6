@@ -1,0 +1,13 @@
+name: ps6-assignment
+title: ps6-assignment
+username:
+account: cruztison
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 8498115
+bundleId: 6924561
+url: https://cruztison.shinyapps.io/ps6-assignment/
+when: 1678168173.70274
+lastSyncTime: 1678168173.70275
+asMultiple: FALSE
+asStatic: FALSE
